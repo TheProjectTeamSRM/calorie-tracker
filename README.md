@@ -41,3 +41,39 @@
 
 ------
 
+### Installation
+
+1. Clone the repo
+
+```
+git clone https://github.com/https://github.com/TheProjectTeamSRM/calorie-tracker
+```
+
+2. Navigate to the folder
+3. Download required dependencies
+
+```
+flutter pub get
+```
+
+4. Run the Project
+
+```
+flutter run
+```
+
+## Usage
+
+​	In progress
+
+### <u>Contributors</u>
+
+------
+
+[YAZID MARZUK K P](https://www.github.com/yazidmarzuk)
+
+[ESHAAN BHARADWAJ](https://www.github.com/Eshaan-B)
+
+[SANTO SANTHOSH](https://www.github.com/santomat-5111)
+
+[DHRUV BHATT](https://www.github.com/dhruvbhatt702)
