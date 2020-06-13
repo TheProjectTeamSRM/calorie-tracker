@@ -1,0 +1,34 @@
+name: hackathonrx
+description: A new Flutter application.
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  animated_text_kit: ^2.0.1
+  cupertino_icons: ^0.1.2
+  curved_navigation_bar: ^0.3.2
+  http: ^0.12.1
+  modal_progress_hud: ^0.1.3
+  font_awesome_flutter: ^8.4.0
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/
+  fonts:
+    - family: Pacifico
+      fonts:
+        - asset: assets/fonts/Pacifico-Regular.ttf
