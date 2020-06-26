@@ -1,8 +1,8 @@
 # <u>Calorie Intake Recommendation & Tracking</u>
-![Collaborators](https://img.shields.io/badge/collaborators-5-red)
-![Status](https://img.shields.io/badge/status-under_development-yellow)
-![Issues](https://img.shields.io/badge/issues-0-blue)
-![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+![Collaborators](https://img.shields.io/badge/collaborators-5-red)<br>
+![Status](https://img.shields.io/badge/status-under_development-yellow)<br>
+![Issues](https://img.shields.io/badge/issues-0-blue)<br>
+![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)<br>
 ##  <u>Problem Statement</u>
 
 ​				The user can enter the food items consumed [item(s) and quantity] and identify actual calorie intake to match that with recommended calories. The solution can help the user to identify his weight goals : Lose/ Maintain/ Gain and how much to lose/ gain. Nowadays everyone is concerned about their Health and Fitness, but none of them are not willing to take any action for it. We have come up with a simple solution, we as a team will be developing an application which helps the users to track their fitness goals and their diet.
