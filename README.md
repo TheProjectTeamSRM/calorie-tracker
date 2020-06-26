@@ -1,7 +1,7 @@
 # <u>Calorie Intake Recommendation & Tracking</u>
 ![Collaborators](https://img.shields.io/badge/collaborators-5-red)
-[Status](https://img.shields.io/badge/status-under_development-yellow)
-[Issues](https://img.shields.io/badge/issues-0-blue)
+![Status](https://img.shields.io/badge/status-under_development-yellow)
+![Issues](https://img.shields.io/badge/issues-0-blue)
 ![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 ##  <u>Problem Statement</u>
 
